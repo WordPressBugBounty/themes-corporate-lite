@@ -4,16 +4,16 @@ Theme URI: https://flythemes.net/wordpress-themes/corporate-wordpress-theme/
 Author: Flythemes
 Author URI: https://flythemes.net
 Description: Corporate Lite theme is responsive multi-purpose corporate WordPress theme. This is specially built for corporate offices, private offices and many other industries. This theme is responsive and compatible with the latest version of WordPress. This theme is one of the best theme for all kinds of industries. This theme is comes with the few feature in customizer. This theme can be useful for multiple industries like blog, magazine, corporate-lite, cafe/restaurent, business, consultant, hospital, hotels, tours and holidays, creativity, shop store etc. This theme is comes with the traslation ready. Corporate Lite theme is cross browser compatible and perform well with any browser. This theme is very easy to use for non coders also. This theme has its ultimate design with the best option to make its unique than others.
-Requires at least: 6.1
-Tested up to: 6.5
+Requires at least: 6.7
+Tested up to: 6.8
 Requires PHP: 7.2
-Version: 1.4.2
+Version: 1.4.3
 License: GNU General Public License
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Text Domain: corporate-lite
 Tags: news, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
 
-Corporate Lite WordPress Theme has been created by Flythemes(flythemes.net), 2024.
+Corporate Lite WordPress Theme has been created by Flythemes(flythemes.net), 2025.
 Corporate Lite WordPress Theme is released under the terms of GNU GPL
 */
 
@@ -39,6 +39,9 @@ a{ text-decoration:none; color:#0fa5d9;}
 a:hover{ text-decoration:none; color:#666;}
 ul{ margin:0 0 0 15px; padding:0;}
 .clear{ clear:both;}
+#commentform input#submit{margin: 0; padding: 8px 10px; border: none; cursor: pointer;}
+#commentform label{vertical-align: top; display: block;}
+#commentform input[type="text"], input[type="email"], input[type="url"], textarea{padding: 8px 12px;}
 .center{ text-align:center; margin-bottom:40px;}
 .middle-align{ margin:0 auto; padding:0;}
 .wp-caption{ margin:0; padding:0; font-size:13px; max-width:100%;}

@@ -1,10 +1,10 @@
 ﻿=== Corporate Lite ===
 
 Contributors: Flythemes
-Requires at least: 6.1
-Tested up to: 6.5
+Requires at least: 6.7
+Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 1.4.2
+Stable tag: 1.4.3
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html 
 Tags: news, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
@@ -27,7 +27,7 @@ Theme is built using the following resource bundles:
 
 *        License
 
-	 Corporate Lite WordPress Theme, Copyright 2024 Flythemes
+	 Corporate Lite WordPress Theme, Copyright 2025 Flythemes
 	 Corporate Lite is distributed under the terms of the GNU GPL
         
 For any help you can mail us at support[at]flythemes.net
@@ -35,7 +35,7 @@ For any help you can mail us at support[at]flythemes.net
 == Changelog ==
 
 == Version 1.0 ==
-* Intial version Release
+* Initial version Release
 
 == Version 1.1 ==
 * Theme description changed.
@@ -87,4 +87,7 @@ For any help you can mail us at support[at]flythemes.net
 * Made few CSS changes.
 
 == Version 1.4.2 ==
+* Made few CSS changes.
+
+== Version 1.4.3 ==
 * Made few CSS changes.

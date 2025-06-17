@@ -1,5 +1,5 @@
 Version 1.0
-i) Intial version Release
+i) Initial version Release
 
 Version 1.1
 i) Theme description changed.
@@ -51,4 +51,7 @@ Version 1.4.1
 i) Made few CSS changes.
 
 Version 1.4.2
+i) Made few CSS changes.
+
+Version 1.4.3
 i) Made few CSS changes.
