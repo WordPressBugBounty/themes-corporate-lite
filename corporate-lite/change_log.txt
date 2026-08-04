@@ -55,3 +55,6 @@ i) Made few CSS changes.
 
 Version 1.4.3
 i) Made few CSS changes.
+
+Version 1.4.4
+i) Made few CSS changes.
